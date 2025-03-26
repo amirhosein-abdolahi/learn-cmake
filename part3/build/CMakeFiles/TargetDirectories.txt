@@ -1,0 +1,4 @@
+/home/amirminer/learn_cmake/part3/build/CMakeFiles/math_lib.dir
+/home/amirminer/learn_cmake/part3/build/CMakeFiles/my_program.dir
+/home/amirminer/learn_cmake/part3/build/CMakeFiles/edit_cache.dir
+/home/amirminer/learn_cmake/part3/build/CMakeFiles/rebuild_cache.dir
