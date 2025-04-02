@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_program.dir/src/main.cpp.o -o my_program   -L/home/amirminer/learn_cmake/part4/other/external/capstone/lib  -Wl,-rpath,/home/amirminer/learn_cmake/part4/other/external/capstone/lib -lcapstone 
