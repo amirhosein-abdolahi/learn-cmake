@@ -1,0 +1,5 @@
+/home/amirminer/learn_cmake/part5/build/CMakeFiles/my_program.dir
+/home/amirminer/learn_cmake/part5/build/CMakeFiles/edit_cache.dir
+/home/amirminer/learn_cmake/part5/build/CMakeFiles/rebuild_cache.dir
+/home/amirminer/learn_cmake/part5/build/helpers/CMakeFiles/edit_cache.dir
+/home/amirminer/learn_cmake/part5/build/helpers/CMakeFiles/rebuild_cache.dir
